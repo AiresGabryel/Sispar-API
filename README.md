@@ -67,3 +67,5 @@ Estrutura MVC (Model-View-Controller)
 
 🤝 Contribuição
 Pull requests são bem-vindos. Para mudanças maiores, abra uma issue antes para discutir o que você gostaria de modificar.
+
+Feito por Gabryel Aires.
